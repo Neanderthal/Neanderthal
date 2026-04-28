@@ -44,10 +44,9 @@
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Спазм мозга: My Telegram Channel for Tech Brain-Cramps](https://neanderthal.github.io/posts/mind-cramp/) — <sub>2026-04-27</sub>
+<!-- BLOG-POST-LIST:START -->- [Спазм мозга: My Telegram Channel for Tech Brain-Cramps](https://neanderthal.github.io/posts/mind-cramp/) — <sub>2026-04-27</sub>
 - [unix-pass-mcp: Letting AI Agents Touch Your Password Store — Carefully](https://neanderthal.github.io/posts/unix-pass-mcp/) — <sub>2026-04-27</sub>
-- [I Spent a Weekend Reverse-Engineering My Mobile Carrier's Whitelist](https://neanderthal.github.io/posts/whitelist-probe/) — <sub>2026-04-14</sub>
+- [I Spent a Weekend Reverse-Engineering My Mobile Carrier’s Whitelist](https://neanderthal.github.io/posts/whitelist-probe/) — <sub>2026-04-14</sub>
 - [QR Geoposition Tracker: Measuring Offline Engagement with GPS Precision](https://neanderthal.github.io/posts/users-geoposition/) — <sub>2026-04-07</sub>
 - [Telegram-Search: Bringing Your Chat History to AI Agents](https://neanderthal.github.io/posts/telegram-search/) — <sub>2026-04-07</sub>
 <!-- BLOG-POST-LIST:END -->
