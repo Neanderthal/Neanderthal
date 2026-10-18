@@ -16,6 +16,9 @@
 
 ## Current Projects
 
+- 🆘 **[Supportal](https://github.com/Neanderthal/Supportal)** — Self-hosted support relay: web-chat user ⇄ operator in a Telegram group. FastAPI + aiogram, embeddable themed widget, offline demo, green CI, MIT — conversations never leave your Telegram workspace.
+- 🎼 **[omr-notes](https://github.com/Neanderthal/omr-notes)** — Optical Music Recognition for Claude Code, installable as a plugin: a photo of a score → editable MusicXML → offline piano audio. Two chained skills that split multi-piece pages before recognition. MIT.
+- 🗺️ **[map-vectorize](https://github.com/Neanderthal/map-vectorize)** — Automatic vectorization of raster geological maps (ГГК-1000/3) into GeoJSON: georeferencing + colour segmentation of legend units, fully local and open-source. Working pilot over Leningrad Oblast quaternary-deposit sheets.
 - 🔐 **[unix-pass-mcp](https://github.com/Neanderthal/unix-pass-mcp)** — Hardened MCP server for the Unix `pass` password manager. Read-only by default; gated writes / git / destructive ops; 346 unit + 45 GPG integration tests.
 - 💻 **[mcp-qemu-vm](https://github.com/Neanderthal/mcp-qemu-vm)** — MCP for QEMU virtual machines. Give an AI safe, fully-isolated computer access via a sandboxed VM.
 - 🔍 **[security-audit](https://github.com/Neanderthal/security-audit)** — Local CVE / permissions / secrets scanner for developer workstations. CVSS-graded, audits OS + Python + Rust + Node deps, never uploads to the cloud.
@@ -24,6 +27,14 @@
 - 📋 **[clipboard-relay](https://github.com/Neanderthal/clipboard-relay)** — End-to-end-encrypted clipboard sync across machines via Git + GPG. Multi-key, auto-expiring, works on any Git host.
 - 📍 **[users_geoposition](https://github.com/Neanderthal/users_geoposition)** — QR-based GPS capture for print-media analytics. FastAPI backend, XLSX output, no third-party tracking.
 - 🧰 **[mcp-server-trello](https://github.com/Neanderthal/mcp-server-trello)** — MCP server for interacting with Trello boards from inside an AI agent.
+
+## Private / client work
+
+A few I can't link publicly — AI for regulated and technical domains, in active development:
+
+- **dali** — on-prem RAG for regulated industries: retrieval over internal engineering and regulatory corpora, nothing leaves the customer network.
+- **dali-drawing** — turns engineering-drawing scans into structured records; offline OCR (RapidOCR / ONNX), Dockerised with CI/CD.
+- **Rubezh** — self-hostable LLM guardrail for the Russian and technical domain, with script-aware de-obfuscation (leet / homoglyphs) against evasion.
 
 ## Writing
 
